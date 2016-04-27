@@ -1,5 +1,5 @@
 name: ChatFormatter
-version: 1.0
+version: 1.0.1
 main: me.z609.chatformatter.ChatFormatter
 softdepend: [EssentialsChat,HeroChat,PermissionsEx,zPermissions,ZGPermissions]
 description: Format your chat perfectly!

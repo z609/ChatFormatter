@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChatFormatter">
+    <output-path>$PROJECT_DIR$/releases</output-path>
+    <root id="archive" name="ChatFormatter.jar">
+      <element id="module-output" name="ChatFormatter" />
+    </root>
+  </artifact>
+</component>
