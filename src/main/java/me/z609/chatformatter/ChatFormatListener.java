@@ -21,7 +21,7 @@ public class ChatFormatListener implements Listener {
         this.parent = parent;
     }
 
-    @EventHandler(priority = EventPriority.LOWEST)
+    @EventHandler(priority = EventPriority.MONITOR)
     public void onChat(AsyncPlayerChatEvent event){
         if(event.isCancelled()){
             return;
